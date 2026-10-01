@@ -1,0 +1,14 @@
+C:\Users\erald.hoxha\Documents\PRR01 Ovning  Fightsim\Fightsim\bin\Debug\net10.0\Fightsim.exe
+C:\Users\erald.hoxha\Documents\PRR01 Ovning  Fightsim\Fightsim\bin\Debug\net10.0\Fightsim.deps.json
+C:\Users\erald.hoxha\Documents\PRR01 Ovning  Fightsim\Fightsim\bin\Debug\net10.0\Fightsim.runtimeconfig.json
+C:\Users\erald.hoxha\Documents\PRR01 Ovning  Fightsim\Fightsim\bin\Debug\net10.0\Fightsim.dll
+C:\Users\erald.hoxha\Documents\PRR01 Ovning  Fightsim\Fightsim\bin\Debug\net10.0\Fightsim.pdb
+C:\Users\erald.hoxha\Documents\PRR01 Ovning  Fightsim\Fightsim\obj\Debug\net10.0\Fightsim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erald.hoxha\Documents\PRR01 Ovning  Fightsim\Fightsim\obj\Debug\net10.0\Fightsim.AssemblyInfoInputs.cache
+C:\Users\erald.hoxha\Documents\PRR01 Ovning  Fightsim\Fightsim\obj\Debug\net10.0\Fightsim.AssemblyInfo.cs
+C:\Users\erald.hoxha\Documents\PRR01 Ovning  Fightsim\Fightsim\obj\Debug\net10.0\Fightsim.csproj.CoreCompileInputs.cache
+C:\Users\erald.hoxha\Documents\PRR01 Ovning  Fightsim\Fightsim\obj\Debug\net10.0\Fightsim.dll
+C:\Users\erald.hoxha\Documents\PRR01 Ovning  Fightsim\Fightsim\obj\Debug\net10.0\refint\Fightsim.dll
+C:\Users\erald.hoxha\Documents\PRR01 Ovning  Fightsim\Fightsim\obj\Debug\net10.0\Fightsim.pdb
+C:\Users\erald.hoxha\Documents\PRR01 Ovning  Fightsim\Fightsim\obj\Debug\net10.0\Fightsim.genruntimeconfig.cache
+C:\Users\erald.hoxha\Documents\PRR01 Ovning  Fightsim\Fightsim\obj\Debug\net10.0\ref\Fightsim.dll
