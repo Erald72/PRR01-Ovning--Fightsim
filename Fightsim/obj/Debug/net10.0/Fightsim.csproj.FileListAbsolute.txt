@@ -12,3 +12,4 @@ C:\Users\erald.hoxha\Documents\PRR01 Ovning  Fightsim\Fightsim\obj\Debug\net10.0
 C:\Users\erald.hoxha\Documents\PRR01 Ovning  Fightsim\Fightsim\obj\Debug\net10.0\Fightsim.pdb
 C:\Users\erald.hoxha\Documents\PRR01 Ovning  Fightsim\Fightsim\obj\Debug\net10.0\Fightsim.genruntimeconfig.cache
 C:\Users\erald.hoxha\Documents\PRR01 Ovning  Fightsim\Fightsim\obj\Debug\net10.0\ref\Fightsim.dll
+C:\Users\erald.hoxha\Documents\PRR01 Ovning  Fightsim\Fightsim\obj\Debug\net10.0\Fightsim.sourcelink.json

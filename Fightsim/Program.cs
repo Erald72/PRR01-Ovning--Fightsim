@@ -38,7 +38,19 @@ else if (GoblinHp == 0)
 }
 else
 {
-     Console.WriteLine($"{GoblinName} vann!");
+    Console.WriteLine($"{GoblinName} vann!");
+}
+
+Console.WriteLine("Vill du spela igen? (A)");
+string svar = Console.ReadLine();
+
+if (svar == "A")
+{
+    Console.WriteLine("Starta om programmet för att spela igen!");
+}
+else
+{
+    Console.WriteLine("Tack för att du spelade!");
 }
 
     Console.WriteLine("Tryck på valfri knapp för att avsluta.");
